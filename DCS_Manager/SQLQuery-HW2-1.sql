@@ -1,0 +1,2 @@
+﻿SELECT Fname, Minit, Lname FROM EMPLOYEE, DEPENDENT WHERE EMPLOYEE.Ssn=DEPENDENT.Essn AND EMPLOYEE.SEX='M'
+ GROUP BY Fname, Minit, Lname Having Count(DEPENDENT.Essn) > 1;

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCS_Manager", "DCS_Manager\DCS_Manager.csproj", "{5B60C3B0-750F-4FC1-BA88-542ACF7B60D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCS_Converter", "..\..\..\SE Project\Team Project\DCS_Converter\DCS_Converter\DCS_Converter.csproj", "{068232F5-A5B9-41D2-9024-CDB7E935A347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B60C3B0-750F-4FC1-BA88-542ACF7B60D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B60C3B0-750F-4FC1-BA88-542ACF7B60D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B60C3B0-750F-4FC1-BA88-542ACF7B60D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B60C3B0-750F-4FC1-BA88-542ACF7B60D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068232F5-A5B9-41D2-9024-CDB7E935A347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068232F5-A5B9-41D2-9024-CDB7E935A347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068232F5-A5B9-41D2-9024-CDB7E935A347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068232F5-A5B9-41D2-9024-CDB7E935A347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://barndyla.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DCS_Manager\\DCS_Manager.csproj
+		SccProjectName1 = DCS_Manager
+		SccLocalPath1 = DCS_Manager
+		SccProjectUniqueName2 = ..\\..\\..\\SE\u0020Project\\Team\u0020Project\\DCS_Converter\\DCS_Converter\\DCS_Converter.csproj
+		SccProjectName2 = ../../../SE\u0020Project/Team\u0020Project/DCS_Converter/DCS_Converter
+		SccLocalPath2 = ..\\..\\..\\SE\u0020Project\\Team\u0020Project\\DCS_Converter\\DCS_Converter
+	EndGlobalSection
+EndGlobal

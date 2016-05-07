@@ -1,0 +1,1 @@
+﻿SELECT Fname, Minit, Lname FROM EMPLOYEE WHERE Super_ssn=888665555;
